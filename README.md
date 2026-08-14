@@ -1,6 +1,6 @@
 ## Hi, I'm Andréa 👋
 
-I love applying AI/ML to real problems and turning ideas into systems people actually use.
+I am passionate about applied AI & ML, I use it as a tool to solve problems and turn ideas into software systems.
 
 My other love (besides my family and friends!) is the cloud. I'm literally a cloud native developer.
 
