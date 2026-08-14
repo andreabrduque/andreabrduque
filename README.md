@@ -4,9 +4,7 @@ I am passionate about applied AI & ML, I use it as a tool to solve problems and 
 
 My other love (besides my family and friends!) is the cloud. I'm literally a cloud native developer.
 
-So much so that I was very much freaked out 10 years ago when I learned plenty of companies ship and maintain software systems without it 😬 
-
-My career had just started 😂 sweet summer child.
+So much so that I was very much freaked out 10 years ago when I learned plenty of companies ship and maintain software systems without it 😬 Yes, my career had just started 😂 sweet summer child.
 
 Fast forward to the future, right now I'm fascinated by agentic AI systems (along with the rest of the world, apparently). 
 But I keep coming back to functional programming, developer experience, distributed systems, and hardware acceleration — a non-exhaustive list!
