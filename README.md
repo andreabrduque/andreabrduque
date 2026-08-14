@@ -2,7 +2,7 @@
 
 I love applying AI/ML to real problems and turning ideas into systems people actually use.
 
-My other love (besides my family and friends!) is the cloud. I'm literally a cloud native developer - 
+My other love (besides my family and friends!) is the cloud. I'm literally a cloud native developer.
 
 So much so that I was very much freaked out 10 years ago when I learned plenty of companies ship and maintain software systems without it 😬 
 
