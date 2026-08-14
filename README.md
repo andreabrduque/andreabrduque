@@ -8,7 +8,8 @@ So much so that I was very much freaked out 10 years ago when I learned plenty o
 
 My career had just started 😂 sweet summer child.
 
-Right now I'm fascinated by agentic AI systems (along with the rest of the world, apparently). But I keep coming back to functional programming, developer experience, distributed systems, and hardware acceleration — a non-exhaustive list!
+Fast forward to the future, right now I'm fascinated by agentic AI systems (along with the rest of the world, apparently). 
+But I keep coming back to functional programming, developer experience, distributed systems, and hardware acceleration — a non-exhaustive list!
 
 I'm originally from Brazil, where I studied Computer Engineering. During my degree I published research on CNN architectures for deep learning, and won Intel's national Embedded Systems competition with a hardware system that detects water leaks using machine learning.
 
