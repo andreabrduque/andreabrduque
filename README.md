@@ -4,7 +4,7 @@ I love applying AI/ML to real problems and turning ideas into systems people act
 
 My other love (besides my family and friends!) is the cloud. I'm literally cloud native - 
 
-So much so that I was very much freaked out 10 years when I learned plenty of companies ship and maintaining software without it 😬 
+So much so that I was very much freaked out 10 years when I learned plenty of companies ship and maintain software systems without it 😬 
 
 My career had just started 😂 Oh sweet summer child.
 
