@@ -2,11 +2,11 @@
 
 I love applying AI/ML to real problems and turning ideas into systems people actually use.
 
-My other love (besides my family and friends!) is the cloud. I'm literally cloud native - 
+My other love (besides my family and friends!) is the cloud. I'm literally a cloud native developer - 
 
-So much so that I was very much freaked out 10 years when I learned plenty of companies ship and maintain software systems without it 😬 
+So much so that I was very much freaked out 10 years ago when I learned plenty of companies ship and maintain software systems without it 😬 
 
-My career had just started 😂 Oh sweet summer child.
+My career had just started 😂 sweet summer child.
 
 Right now I'm fascinated by agentic AI systems (along with the rest of the world, apparently). But I keep coming back to functional programming, developer experience, distributed systems, and hardware acceleration — a non-exhaustive list!
 
