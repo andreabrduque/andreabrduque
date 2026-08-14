@@ -1,4 +1,4 @@
-## Hi, I'm Andréa 👋
+# Hi, I'm Andréa 👋
 
 I am passionate about applied AI & ML, I use it as a tool to solve problems and turn ideas into software systems.
 
