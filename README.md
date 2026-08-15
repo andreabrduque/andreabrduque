@@ -1,6 +1,6 @@
 # Hi, I'm Andréa 👋
 
-I am passionate about applied AI & ML, I use it as a tool to solve problems and turn ideas into software systems.
+I am passionate about applied AI & ML. I enjoy using it as a tool to solve problems and turn ideas into software systems.
 
 My other love (besides my family and friends!) is the cloud. I'm literally a cloud native developer.
 
@@ -15,7 +15,7 @@ I'm originally from Brazil, where I studied Computer Engineering. During my degr
 
 Currently based in Copenhagen, Denmark.
 
-I am always happy to talk about anything really, but specially tech.
+I am always happy to talk about anything really, but especially tech.
 
 If you found my profile interesting, feel free to connect on [LinkedIn](https://www.linkedin.com/in/andrea-duque-30262310b/) and let's grab some coffee!
 
@@ -25,7 +25,7 @@ If you found my profile interesting, feel free to connect on [LinkedIn](https://
 
 | Project | Description |
 |---|---|
-| [fas-cli](https://github.com/andreabrduque/<repo-name>) | The Foundry Agents Stack CLI is a tool to ship AI agents with Azure Foundry, wire them into toolboxes and MCP tools, and orchestrate them as fast as Azure let's you spin up their resources. |
+| [fas-cli](https://github.com/andreabrduque/fas-cli) | The Foundry Agents Stack CLI is a tool to ship AI agents with Azure Foundry, wire them into toolboxes and MCP tools, and orchestrate them as fast as Azure lets you spin up their resources. |
 
 
 ### ✍️ Writing
