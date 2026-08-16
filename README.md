@@ -11,7 +11,7 @@ But I keep coming back to functional programming, developer experience, distribu
 
 I'm originally from Brazil, where I studied Computer Engineering. During my degree I published research on CNN architectures for deep learning, and won Intel's national Embedded Systems competition with a hardware system that detects water leaks using machine learning.
 
-## 📫 Get in touch
+## Get in touch
 
 I am always happy to talk about anything really, but especially tech.
 
