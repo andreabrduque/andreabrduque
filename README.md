@@ -1,10 +1,10 @@
 # Hi, I'm Andréa 👋
 
-I am passionate about applied AI & ML. I enjoy using it as a tool to solve problems and turn ideas into software systems.
+I am passionate about applied AI & ML. I really enjoy using it as a tool to solve problems and turn ideas into software.
 
-My other love (besides my family and friends!) is the cloud. I'm literally a cloud native developer.
+My other interest is the cloud. I'm literally a cloud native developer.
 
-So much so that I was very much freaked out 10 years ago when I learned plenty of companies ship and maintain software systems without it 😬 Yes, my career in the industry had just started 😂 sweet summer child.
+So much so that I was very much freaked out 10 years ago during a job interview when I learned plenty of companies ship and maintain software systems without it 😬 Back then I was looking for an internship 😂 sweet summer child.
 
 Fast forward to the future, right now I'm fascinated by agentic AI systems (along with the rest of the world, apparently). 
 But I keep coming back to functional programming, developer experience, distributed systems, and hardware acceleration: a non-exhaustive list!
@@ -12,8 +12,6 @@ But I keep coming back to functional programming, developer experience, distribu
 I'm originally from Brazil, where I studied Computer Engineering. During my degree I published research on CNN architectures for deep learning, and won Intel's national Embedded Systems competition with a hardware system that detects water leaks using machine learning.
 
 ## 📫 Get in touch
-
-Currently based in Copenhagen, Denmark.
 
 I am always happy to talk about anything really, but especially tech.
 
