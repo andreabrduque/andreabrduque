@@ -19,7 +19,7 @@ If you found my profile interesting, feel free to connect on [LinkedIn](https://
 
 ## My Work
 
-### 🛠 Open source
+### 🛠 Currently building
 
 | Project | Description |
 |---|---|
